@@ -1,4 +1,4 @@
-# sum-palici239
-Một thư viện giúp bạn tính tổng của 2 số bất kỳ
+# kaelsum-6969
+A library that helps you calculate the sum of any 2 numbers
 
-Đơn giản, dễ dùng, cực kỳ nhẹ
+Simple, easy to use, extremely lightweight
